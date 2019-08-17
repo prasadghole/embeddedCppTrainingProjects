@@ -1,0 +1,5 @@
+Uart3.h:21:3:stm32f767::Usart::Settings::Settings()	16	static
+Uart3.cpp:4:1:stm32f767::Usart::Uart3::Uart3()	16	static
+Uart3.cpp:14:1:stm32f767::Usart::Uart3::Uart3(stm32f767::Usart::Settings&)	16	static
+Uart3.cpp:17:6:bool stm32f767::Usart::Uart3::Initialize()	24	static
+Uart3.cpp:38:6:bool stm32f767::Usart::Uart3::Transmit(const char*, uint32_t)	24	static
